@@ -1,0 +1,8 @@
+table,th,td{
+    color: blue;
+    border: 1px solid green;
+    border-collapse: collapse;
+    padding:8px;
+    text-align: center;
+
+}
